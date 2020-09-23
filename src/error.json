@@ -1,0 +1,10 @@
+{
+    "APP_NAME_ERROR": {
+        "message": "Invalid information",
+        "code": "10010"
+    },
+    "BRANCH_IO_ERROR": {
+        "message": "Invalid information",
+        "code": "10020"
+    }
+}
