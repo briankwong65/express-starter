@@ -1,0 +1,10 @@
+{
+    "tabWidth": 2,
+    "printWidth": 100,
+    "useTabs": false,
+    "semi": true,
+    "singleQuote": true,
+    "trailingComma": "all",
+    "formatOnSave": true,
+    "files.insertFinalNewline": true
+}
