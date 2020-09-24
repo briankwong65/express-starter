@@ -3,6 +3,6 @@ const reportController = require('../controller/report-controller');
 
 const router = express.Router();
 
-router.post('/generator', reportController.generateReport);
+router.get('/generator', reportController.generateReport);
 
 module.exports = router;

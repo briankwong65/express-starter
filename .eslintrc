@@ -24,6 +24,7 @@
     "eqeqeq": "off",
     "arrow-body-style": "off",
     "operator-linebreak": ["error", "after"],
-    "implicit-arrow-linebreak": "off"
+    "implicit-arrow-linebreak": "off",
+    "eslint linebreak-style": ["off", "windows"]
   }
 }
