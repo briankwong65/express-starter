@@ -1,8 +1,8 @@
-# backend-excel-sql
+# express-starter
 
 ## Introduction
 
-It is a service to generate deep link with mobile apps.
+Starter project for creating a MVC express server.
 
 ## Health Check
 
