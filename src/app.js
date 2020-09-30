@@ -1,9 +1,9 @@
-const morgan = require('morgan');
-const express = require('express');
+import express from 'express';
+import morgan from 'morgan';
+import bodyParser from 'body-parser';
+import dotenv from 'dotenv';
 
 const app = express();
-const bodyParser = require('body-parser');
-const dotenv = require('dotenv');
 
 dotenv.config();
 

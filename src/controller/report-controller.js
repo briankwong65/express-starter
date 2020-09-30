@@ -1,4 +1,4 @@
-const reportService = require('../services/report-service');
+import reportService from '../services/report-service';
 
 async function generateReport(req, res) {
   let data = 'success';

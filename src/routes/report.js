@@ -1,5 +1,5 @@
-const express = require('express');
-const reportController = require('../controller/report-controller');
+import express from 'express';
+import reportController from '../controller/report-controller';
 
 const router = express.Router();
 
