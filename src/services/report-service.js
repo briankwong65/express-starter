@@ -1,9 +1,9 @@
-const convertExceltoJSON = async (data) => {
+const service = async (data) => {
   const res = data;
 
   return res;
 };
 
 module.exports = {
-  convertExceltoJSON,
+  service,
 };
