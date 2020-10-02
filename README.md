@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Starter project for creating a MVC express server.
+Starter project for creating a ES6 MVC express server.
 
 ## Installation of packages
 
